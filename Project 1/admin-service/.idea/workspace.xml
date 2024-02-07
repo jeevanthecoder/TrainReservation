@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42ac1eb6-01c8-4ff0-bf10-af8a9ed46dcb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Project 2/RandomNumberGame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project 2/RandomNumberGame/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project 2/RandomNumberGame/src/RandomNumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project 2/RandomNumberGame/src/RandomNumberGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2aqxYfIYZeHx5HScuuSFqk9a9l2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/java_workspace_springs/OASIS INFOBYTE/OIBSIP/Project 1/Eureka-server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a0e46b9d7389b4089f22ac354fb5aefd&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="AdminServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="adminAccess-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.adminservice.AdminServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42ac1eb6-01c8-4ff0-bf10-af8a9ed46dcb" name="Changes" comment="" />
+      <created>1705059965327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705059965327</updated>
+      <workItem from="1705059967870" duration="197000" />
+      <workItem from="1705060775353" duration="11327000" />
+      <workItem from="1705113903618" duration="936000" />
+      <workItem from="1705122614339" duration="747000" />
+      <workItem from="1705135576568" duration="20767000" />
+      <workItem from="1705206779594" duration="8766000" />
+      <workItem from="1705340466504" duration="1982000" />
+      <workItem from="1705496306390" duration="5776000" />
+      <workItem from="1705504897837" duration="3222000" />
+      <workItem from="1705641834313" duration="4698000" />
+      <workItem from="1705661727155" duration="10218000" />
+      <workItem from="1705675872725" duration="842000" />
+      <workItem from="1705678040033" duration="4856000" />
+      <workItem from="1705683485491" duration="3565000" />
+      <workItem from="1705743563729" duration="2381000" />
+      <workItem from="1705814456066" duration="1216000" />
+      <workItem from="1705822972394" duration="638000" />
+      <workItem from="1705837709305" duration="1702000" />
+      <workItem from="1705841455135" duration="4841000" />
+      <workItem from="1706011948880" duration="3474000" />
+      <workItem from="1706072839815" duration="745000" />
+      <workItem from="1706101201995" duration="1925000" />
+      <workItem from="1706185670961" duration="8529000" />
+      <workItem from="1706245605431" duration="4025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
